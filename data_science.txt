@@ -6,7 +6,9 @@ scikit-learn
 scipy
 ipyhton
 jupyterlab
+openai
 
 black
 flake8
 isort
+tqdm
